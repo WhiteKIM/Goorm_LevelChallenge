@@ -8,29 +8,29 @@
 
 ## 디렉토리 구조
 Week1<br/>
-&nbsp;&nbsp;|-- day1<br/>
-&nbsp;&nbsp;|-- day2<br/>
-&nbsp;&nbsp;|-- day3<br/>
-&nbsp;&nbsp;|-- day3<br/>
-&nbsp;&nbsp;|-- day3<br/>
+&nbsp;&nbsp;├─ day1<br/>
+&nbsp;&nbsp;├─ day2<br/>
+&nbsp;&nbsp;├─ day3<br/>
+&nbsp;&nbsp;├─ day3<br/>
+&nbsp;&nbsp;├─  day3<br/>
 Week2<br/>
-&nbsp;&nbsp;|-- day1<br/>
-&nbsp;&nbsp;|-- day2<br/>
-&nbsp;&nbsp;|-- day3<br/>
-&nbsp;&nbsp;|-- day3<br/>
-&nbsp;&nbsp;|-- day3<br/>
+&nbsp;&nbsp;├─  day1<br/>
+&nbsp;&nbsp;├─  day2<br/>
+&nbsp;&nbsp;├─  day3<br/>
+&nbsp;&nbsp;├─  day3<br/>
+&nbsp;&nbsp;├─  day3<br/>
 Week3<br/>
-&nbsp;&nbsp;|-- day1<br/>
-&nbsp;&nbsp;|-- day2<br/>
-&nbsp;&nbsp;|-- day3<br/>
-&nbsp;&nbsp;|-- day3<br/>
-&nbsp;&nbsp;|-- day3<br/>
+&nbsp;&nbsp;├─  day1<br/>
+&nbsp;&nbsp;├─ day2<br/>
+&nbsp;&nbsp;├─  day3<br/>
+&nbsp;&nbsp;├─  day3<br/>
+&nbsp;&nbsp;├─  day3<br/>
 Week4<br/>
-&nbsp;&nbsp;|-- day1<br/>
-&nbsp;&nbsp;|-- day2<br/>
-&nbsp;&nbsp;|-- day3<br/>
-&nbsp;&nbsp;|-- day3<br/>
-&nbsp;&nbsp;|-- day3<br/>
+&nbsp;&nbsp;├─  day1<br/>
+&nbsp;&nbsp;├─  day2<br/>
+&nbsp;&nbsp;├─  day3<br/>
+&nbsp;&nbsp;├─  day3<br/>
+&nbsp;&nbsp;├─  day3<br/>
 
 ## 블로그
 - https://mlnl.me/py 노션 블로그
